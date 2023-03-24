@@ -78,6 +78,6 @@ You should be logged on your VDI as *student*.
 	
 Great! You are now ready to start working with MQ in the labs. If running a PoT, attendees are now ready to start Lab 1 where they will create queue managers using their assigned IDs.
 
-[Continue to Lab 1](../Lab_3/mq_cp4i_pot_lab3.md#introduction)
+[Continue to Lab 1](../Lab_1/Readme.md#lab-1---nativeha-deploying-a-cloud-native-ha-persistent-ibm-mq-queue-manager-on-the-cloud-pak-for-integration)
 
 [Return MQ main page](../index.md#lab-abstracts)

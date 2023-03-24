@@ -26,5 +26,5 @@ What is IBM MQ?
 |--------------------------------|-----------------------------------------------------------------|
 | [Lab 2b](Lab_2b/Readme.md)       | MQ Source connector to Kafka from Streaming Queues                       |                                       
 |--------------------------------|-----------------------------------------------------------------|
-| [Lab 4](Lab_4/Readme.md)       | Uniform Cluster and Application Load Balancing          |                                     
+| [Lab 3](Lab_3/Readme.md)       | Uniform Cluster and Application Load Balancing          |                                     
 |--------------------------------|-----------------------------------------------------------------|
