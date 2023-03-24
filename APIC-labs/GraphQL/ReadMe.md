@@ -41,7 +41,7 @@ In this lab, you will explore the following key capabilities:
 
 # 2. Create a GraphQL Proxy API <a name="create"></a>
 
-1\. Since this API is hosted on the local cluster where self-signed certificates are being used, you will need to add an exception.  In a browser, enter the following URL:  https://grapfql-graphql.apps.palpatine.coc-ibm.com/accounts/graphql.
+1\. Since this API is hosted on the local cluster where self-signed certificates are being used, you will need to add an exception.  In a browser, enter the following URL:  https://graphql-test-server.apps.palpatine.coc-ibm.com/accounts/graphql.
 
 **Note:** You may get a warning message that your connection is not private.  If you get this message, you can add an exception.  
 
@@ -111,7 +111,7 @@ If you have not logged in before, follow these instructions to access to the Pla
 12\. Enter the following values and click **Next**. You can accept the default values for the rest of the fields.
 
 - Title:  accounts
-- GraphQL server URL:  https://grapfql-graphql.apps.palpatine.coc-ibm.com/accounts/graphql
+- GraphQL server URL:  https://graphql-test-server.apps.palpatine.coc-ibm.com/accounts/graphql
 
 ![alt text][pic14]
 
