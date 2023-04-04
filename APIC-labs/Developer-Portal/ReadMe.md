@@ -90,7 +90,7 @@ A Portal Administrator can customize the look and feel to their organizational s
 
 =================================================================================================
 
-**NOTE:** In this Proof of Technology, Consumer accounts have already been created for you.  If using the pre-defined Consumer account, go to **Step 11** to log into the Dev Portal with your assigned username and password.  If you would like to create your own account to access the Portal, follow the steps below.
+**NOTE:** In this Proof of Technology, Consumer accounts have already been created for you.  If using the pre-defined Consumer account, go to **Step 13** to log into the Dev Portal with your assigned username and password.  If you would like to create your own account to access the Portal, follow the steps below.
 
 11\. To create your own account, click on **Create an account**.
 
@@ -110,7 +110,7 @@ Next fill out the form and an activation email will be sent to you.  Click **Sig
 
 ![alt text][pic19a]
 
-14\. The Sign in screen will pop up and you will log in with your Consumer username and password.  If using the Consumer account that was pre-defined, the name will be based on your cluster account.  In the screenshot below, the melch cluster is being used and the user is melch1.  Therefore, the Consumer account username will be melchdev1.  If you logged into the mace cluster using mace5, the Consumer account username would be macedev5.  The password is **passw0rd** for all of the pre-defined Consumer accounts.  If you are using the Consumer account that you just created, you can log in with those credentials.  Click **Sign in**. 
+14\. The Sign in screen will pop up and you will log in with your Consumer username and password.  If using the Consumer account that was pre-defined, the name will be based on your cluster account.  In the screenshot below, the melch cluster is being used and the user is **melch1**.  Therefore, the Consumer account username will be **melchdev1**.  If you logged into the mace cluster using **mace5**, the Consumer account username would be **macedev5**.  The password is **passw0rd** for all of the pre-defined Consumer accounts.  If you are using the Consumer account that you just created, you can log in with those credentials.  Click **Sign in**. 
 
 ![alt text][pic20a]
 
