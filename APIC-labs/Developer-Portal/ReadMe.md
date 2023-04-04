@@ -55,43 +55,44 @@ A Developer Portal for the Sandbox catalog has already been configured in this e
 
 ![alt text][pic6a]
 
-3\. If first time logging in the login page is presented Click **Common Services User Registry**.
+3\. If first time logging in, the login page is presented. Click **Techcon LDAP**.
+
 ![alt text][pic8a]
 
-2\. Click on **Manage catalogs**.  If you are already logged in and continuing from the previous lab, click on the **Home** icon on the left navigation bar.
+4\. Click on **Manage catalogs**.  If you are already logged in and continuing from the previous lab, click on the **Home** icon on the left navigation bar.
 
 ![alt text][pic9]
 
-3\. Click on **Sandbox**.
+5\. Click on **Sandbox**.
 
 ![alt text][pic10]
 
-4\. Select the **Catalog settings** tab.  **Note:** Depending on how many labs you have completed, your Products list may differ than what is reflected in the screenshot.
+6\. Select the **Catalog settings** tab.  **Note:** Depending on how many labs you have completed, your Products list may differ than what is reflected in the screenshot.
 
 ![alt text][pic11]
 
-5\. From the left menu, click on **Portal**.
+7\. From the left menu, click on **Portal**.
 
 ![alt text][pic12]
 
-6\. Highlight the **Portal URL** and right click to open URL in new tab or paste it in a new browser tab.  
+8\. Highlight the **Portal URL** and right click to open URL in new tab or paste it in a new browser tab.  
 **Note:** If you get a warning message that your connection is not private, follow the instructions in the previous section.
 
 ![alt text][pic13]
 
-7\.  The IBM API Connect Developer Portal provides consumers access to API Catalog information.  This gives application developers the opportunity to explore and test APIs, register applications, and subscribe to Plans.
+9\.  The IBM API Connect Developer Portal provides consumers access to API Catalog information.  This gives application developers the opportunity to explore and test APIs, register applications, and subscribe to Plans.
 
 A Portal Administrator can customize the look and feel to their organizational specifications. The default Developer Portal looks like the image below.  Note:  Depending on what you have published, the Products that you see may be different.
 
 ![alt text][pic14]
 
-8\. Some Products are visible to all users without an account depending on the Product visibility setting. Additional options are available when you log into the Developer Portal.
+10\. Some Products are visible to all users without an account depending on the Product visibility setting. Additional options are available when you log into the Developer Portal.
 
 =================================================================================================
 
 **NOTE:** In this Proof of Technology, Consumer accounts have already been created for you.  If using the pre-defined Consumer account, go to **Step 11** to log into the Dev Portal with your assigned username and password.  If you would like to create your own account to access the Portal, follow the steps below.
 
-9\. To create your own account, click on **Create an account**.
+11\. To create your own account, click on **Create an account**.
 
 ![alt text][pic15]
 
@@ -99,21 +100,21 @@ Next fill out the form and an activation email will be sent to you.  Click **Sig
 
 ![alt text][pic16]
 
-10\. You will then receive the activation email.  Copy the link and paste in to your browser to complete the registration.  Once complete, you can log in with your new account.
+12\. You will then receive the activation email.  Copy the link and paste in to your browser to complete the registration.  Once complete, you can log in with your new account.
 
 ![alt text][pic17]
 
 =================================================================================================
 
-11\. You can log into the Dev Portal using the pre-defined Consumer account or the Consumer account that you just created.  Click on **Sign in** on the Dev Portal screen in the upper right corner.  
+13\. You can log into the Dev Portal using the pre-defined Consumer account or the Consumer account that you just created.  Click on **Sign in** on the Dev Portal screen in the upper right corner.  
 
 ![alt text][pic19a]
 
-12\. The Sign in screen will pop up and you will log in with your Consumer username and password.  If using the Consumer account that was pre-defined, the name will be based on your cluster account.  In the screenshot below, the melch cluster is being used and the user is melch1.  Therefore, the Consumer account username will be melchdev1.  If you logged into the mace cluster using mace5, the Consumer account username would be macedev5.  The password is **passw0rd** for all of the pre-defined Consumer accounts.  If you are using the Consumer account that you just created, you can log in with those credentials.  Click **Sign in**. 
+14\. The Sign in screen will pop up and you will log in with your Consumer username and password.  If using the Consumer account that was pre-defined, the name will be based on your cluster account.  In the screenshot below, the melch cluster is being used and the user is melch1.  Therefore, the Consumer account username will be melchdev1.  If you logged into the mace cluster using mace5, the Consumer account username would be macedev5.  The password is **passw0rd** for all of the pre-defined Consumer accounts.  If you are using the Consumer account that you just created, you can log in with those credentials.  Click **Sign in**. 
 
 ![alt text][pic20a]
 
-13\. Once logged in, you will see the Welcome page for the portal.   Continue to the next section to register you test application. 
+15\. Once logged in, you will see the Welcome page for the portal.   Continue to the next section to register you test application. 
 
 ![alt text][pic21a]
 
