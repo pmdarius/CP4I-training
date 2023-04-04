@@ -135,7 +135,8 @@ If you're not logged before, follow these instructions to access to the Platform
 
 ![alt text][pic6]
 
-3\. If first time logging in the login page is presented Click **Techcon LDAP**.
+3\. If first time logging in, the login page is presented. Click **Techcon LDAP**.
+
 ![alt text][pic8]
 
 
